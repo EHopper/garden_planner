@@ -1,0 +1,7 @@
+# Staging directories for screenshots
+newpics/*
+orig_pics/*
+
+# Local files
+.DS_Store
+.python-version
