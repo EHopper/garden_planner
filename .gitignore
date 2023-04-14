@@ -2,6 +2,9 @@
 newpics/*
 orig_pics/*
 
+# Log files
+logs/*
+
 # Local files
 .DS_Store
 .python-version
